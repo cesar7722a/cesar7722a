@@ -24,8 +24,6 @@
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)&nbsp;
 
-  ## O &nbsp Analytics
-
   
 
 
